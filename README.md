@@ -13,7 +13,7 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Scanning                              | <a href="https://google.com">Network Scanning</a> |
+| Network Scanning                              | <a href="https://github.com/atayerorotimi/kali-nmap-scan">Network Scanning</a> |
 | Mobile Security Framework (MobSF)             | <a href="https://mobsf.github.io/">Mobile Security Framework (MobSF)</a> |
 
 ## Operating System
